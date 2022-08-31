@@ -1,4 +1,4 @@
-package com.javarush.apache_commons.compare_candidates;
+package com.javarush.apache_commons_lang.compare_candidates;
 
 /*
 Сравни кандидатов

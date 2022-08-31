@@ -1,12 +1,10 @@
-package com.javarush.apache_commons.compare_cats;
+package com.javarush.apache_commons_lang.compare_cats;
 
 /*
 Сравниваем котов
 */
 
 import org.apache.commons.lang3.builder.*;
-
-import java.util.Objects;
 
 public class Cat {
 
