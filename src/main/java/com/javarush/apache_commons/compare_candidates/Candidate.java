@@ -27,9 +27,10 @@ public class Candidate {
 
     @Override
     public boolean equals(Object obj) {
-        //напишите тут ваш код
+        if (this == obj) return true;
+        if (obj == null && getClass() != obj.getClass()) return false;
 
-        return false;
+        return EqualsBuilder.reflectionEquals(this, obj, true, null, "name", "age", "height", "weight");
     }
 
     @Override
