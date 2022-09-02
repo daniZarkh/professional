@@ -1,4 +1,4 @@
-package com.javarush.apache_commons_lang.string_utils.not_afraid_null;
+package com.javarush.lang.string_utils.not_afraid_null;
 
 /*
 Нам null-ы не страшны

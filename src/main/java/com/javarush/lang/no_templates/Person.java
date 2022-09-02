@@ -1,4 +1,4 @@
-package com.javarush.apache_commons_lang.no_templates;
+package com.javarush.lang.no_templates;
 
 /*
 Нам шаблоны не нужны

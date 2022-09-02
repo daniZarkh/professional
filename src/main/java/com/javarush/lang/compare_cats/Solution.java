@@ -1,4 +1,4 @@
-package com.javarush.apache_commons_lang.compare_cats;
+package com.javarush.lang.compare_cats;
 
 /*
 Сравниваем котов

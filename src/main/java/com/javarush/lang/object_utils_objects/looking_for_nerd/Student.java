@@ -1,4 +1,4 @@
-package com.javarush.apache_commons_lang.object_utils_objects.looking_for_nerd;
+package com.javarush.lang.object_utils_objects.looking_for_nerd;
 
 /*
 В поиске ботана

@@ -1,6 +1,4 @@
-package com.javarush.apache_commons_lang.object_utils_objects.sewed_on_soap;
-
-import org.apache.commons.lang3.ObjectUtils;
+package com.javarush.lang.object_utils_objects.sewed_on_soap;
 
 import java.util.Objects;
 

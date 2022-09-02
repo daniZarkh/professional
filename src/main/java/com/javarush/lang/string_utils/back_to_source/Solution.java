@@ -1,4 +1,4 @@
-package com.javarush.apache_commons_lang.string_utils.back_to_source;
+package com.javarush.lang.string_utils.back_to_source;
 
 /*
 Вернуться к истокам
